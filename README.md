@@ -1,5 +1,8 @@
 # Parallel Data Processing on AWS
 
+
+![Data-Process](assets/Chart.png)
+
 - In this architecture, a backend application receives data through API calls and processes the data in parallel.
 
 - The rideshare app sends ride information to the backend APIs. Amazon API Gateway receives the request and redirects it to an AWS Lambda function for processing.
