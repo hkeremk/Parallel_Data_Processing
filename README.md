@@ -1,6 +1,7 @@
 # Parallel Data Processing on AWS
 
 
+![SNS](assets/Create-SNS-Topic.png)
 ![Data-Process](assets/Chart.png)
 
 - In this architecture, a backend application receives data through API calls and processes the data in parallel.
