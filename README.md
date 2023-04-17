@@ -12,5 +12,4 @@
 
 - A Lambda funciton for the Coupon service is another subscriber to the same SNS topic. The subscriber receives messages that contain the attribute "coupon".
 
-- A Lambda function for Promotion service also subscribes to the same SNS topic. The susbcriber receives a messages that contain the attribute "distance" and value is greater than 10.
 
