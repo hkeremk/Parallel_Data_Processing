@@ -2,4 +2,5 @@
 
 - First, create SNS topic
 
-![SNS](assets/Create-SNS-Topic.png)
+![Create-SNS](assets/Create-SNS-Topic.png)
+
