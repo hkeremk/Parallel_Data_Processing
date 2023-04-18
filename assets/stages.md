@@ -1,5 +1,5 @@
 # Stages for this app
 
-- First create an SNS topic
+- First create a SNS topic
 
 ![SNS](../assets/Create-SNS-Topic.png)
