@@ -13,3 +13,4 @@
 - A Lambda funciton for the Coupon service is another subscriber to the same SNS topic. The subscriber receives messages that contain the attribute "coupon".
 
 
+[Stages](Parallel_Data_Processing/assets/stages.md)
